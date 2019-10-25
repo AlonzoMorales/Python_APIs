@@ -16,10 +16,10 @@ __Build a series of scatter plots to showcase the following relationships:__
 
 __Save both a CSV of all data retrieved and png images for each scatter plot__
 
-![cloud](Images/Latitude_vs_Cloudiness.png)
+![temp](Images/Latitude_vs_Temp.png)
 
 ![humid](Images/Latitude_vs_Humidity.png)
 
-![temp](Images/Latitude_vs_Temp.png)
+![cloud](Images/Latitude_vs_Cloudiness.png)
 
 ![wind](Images/Latitude_vs_WindSpeed.png)
